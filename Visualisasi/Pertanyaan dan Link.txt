@@ -1,0 +1,10 @@
+Pertanyaan :
+1. Games apa yang menjadi top 10 di EU, JP, dan NA pada tahun 2000-2020?
+2. Berapa count game yang dirilis per tahun di EU, JP, dan NA pada tahun 2000-2020?
+3. Genre yang menjadi top 5 di EU, JP, dan NA pada tahun 2000-2020?
+4. Bagaimana scatter plot untuk 3 region (EU, JP, dan NA) berdasarkan platform pada tahun 2000-2020?
+5. Bagaimana top selling di EU, JP, dan NA pada tahun 2000-2020?
+
+
+Link Tableau Public : 
+https://public.tableau.com/app/profile/snow.white6318/viz/VideoGamesSalesDashboard_16760946994080/VideoGamesSalesDashboard?publish=yes
